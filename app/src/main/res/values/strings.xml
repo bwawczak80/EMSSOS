@@ -1,0 +1,24 @@
+<resources>
+    <string name="nameDisplay">Name: </string>
+
+    <string name="app_name">EMS SOS</string>
+    <string name="title">Medical Information</string>
+    <string name="name">Name: </string>
+    <string name="dob">Date of Birth: </string>
+    <string name="btnEmergencyContact">Emergency Contact</string>
+    <string name="btnMedication">Medications</string>
+    <string name="btnMedicalConditions">Medical Conditions</string>
+    <string name="primaryName">Doctor name: </string>
+    <string name="primaryPhone">Doctor phone: </string>
+    <string name="contactPhone">Contact Phone:</string>
+    <string name="btnSave">Save</string>
+    <string name="btnComplete">Complete</string>
+    <string name="conditions">List Medical Conditions</string>
+    <string name="rxList">List Prescriptions</string>
+    <string name="allergyList">List any Allergies</string>
+    <string name="btnDisplay">Display Info</string>
+    <string name="btnEdit">Add Info</string>
+
+
+
+</resources>
